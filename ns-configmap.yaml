@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: sample-configmap
+  namespace: my-ns
+data:
+  database_url: test-service.db
