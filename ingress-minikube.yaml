@@ -16,4 +16,3 @@ spec:
             name: kubernetes-dashboard
             port: 
               number: 80
-
